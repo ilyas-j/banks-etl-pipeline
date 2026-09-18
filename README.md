@@ -19,14 +19,14 @@ This project implements an ETL pipeline in Python to process data about the larg
 
 ## Project Structure
 
-BANKS-ETL-PIPLINE
-│
-├── src
-├── data
-├── output
-├── logs
-├── requirements.txt
-└── README.md
+BANKS-ETL-PIPLINE\
+│\
+├── src\
+├── data\
+├── output\
+├── logs\
+├── requirements.txt\
+└── README.md\
 
 ## How to run
 
